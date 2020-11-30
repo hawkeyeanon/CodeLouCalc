@@ -2,7 +2,7 @@ import random
 import pdb
 
 #initialize stuff
-print("Welcome to the Code Louisville calculator!!!")
+print("Welcome to the Coding Crew calculator!!!")
 
 
 ### Function to get two input numbers ###
